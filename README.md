@@ -1,6 +1,6 @@
-## SoftKompjuting-Projekat
+## Drugi Predefinisani Projekat iz SoftKompjuting-a
 
-### STA
+### STA:
 
 Potrebno je kreirati model za klasifikacije vremenskih prilika na osnovu slika u
 4 klase (izlazak sunca, oblacno, suncano i kisovito) sa bar 70% tacnosti
